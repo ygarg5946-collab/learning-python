@@ -26,3 +26,4 @@ while is_on:
 
 
 screen.exitonclick()
+print("Exited from program")
